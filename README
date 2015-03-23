@@ -22,6 +22,73 @@ Table of Content:
 12) Start Writing Code
 13) Note about building the msi from source code
 
+Microsoft 
+01/27/2012
+Rev 1.0
+
+AWS SDK for Windows Whone
+Getting Started Guide
+ 
+Table of Content:
+
+1) License
+2) About this Development Guide
+3) Target Audience
+4) Conventions Used in this Document
+5) Requirements
+6) Install AWS SDK for Windows Phone
+7) Description of Installed Files
+8) Create a new Windows Phone project
+9) Add AWS References to the project
+10) Edit App.Config
+11) Using the AWS Namespace
+12) Start Writing Code
+13) Note about building the msi from source code
+Microsoft 
+01/27/2012
+Rev 1.0
+
+AWS SDK for Windows Whone
+Getting Started Guide
+ 
+Table of Content:
+
+1) License
+2) About this Development Guide
+3) Target Audience
+4) Conventions Used in this Document
+5) Requirements
+6) Install AWS SDK for Windows Phone
+7) Description of Installed Files
+8) Create a new Windows Phone project
+9) Add AWS References to the project
+10) Edit App.Config
+11) Using the AWS Namespace
+12) Start Writing Code
+13) Note about building the msi from source code
+Microsoft 
+01/27/2012
+Rev 1.0
+
+AWS SDK for Windows Whone
+Getting Started Guide
+ 
+Table of Content:
+
+1) License
+2) About this Development Guide
+3) Target Audience
+4) Conventions Used in this Document
+5) Requirements
+6) Install AWS SDK for Windows Phone
+7) Description of Installed Files
+8) Create a new Windows Phone project
+9) Add AWS References to the project
+10) Edit App.Config
+11) Using the AWS Namespace
+12) Start Writing Code
+13) Note about building the msi from source code
+
 
 
 1) License
@@ -89,7 +156,7 @@ Within the installation directory the Bin subfolder contains the two files you'l
   
 8) Create a new Windows Phone project
 
-The SDK can be used in conjunction with an existing Windows Phone project but the purposes of this guide we’ll be starting from scratch. Start Visual Studio and create a new project. Select a Visual C# Silverlight for Windows Phone template. Give the project a name and click OK.
+The SDK can be used in conjunction with an existing Windows Phone project but the purposes of this guide weâ€™ll be starting from scratch. Start Visual Studio and create a new project. Select a Visual C# Silverlight for Windows Phone template. Give the project a name and click OK.
 
  
 9) Add AWS References to the project
@@ -111,7 +178,7 @@ One you've completed the above tasks you can then add references to the Amazon n
  
 12) Start Writing Code
 
-Now you’re ready to start implementing AWS functionality into your existing or new Windows Phone project. Demo webcasts are available which outline each of the samples included with the SDK:
+Now youâ€™re ready to start implementing AWS functionality into your existing or new Windows Phone project. Demo webcasts are available which outline each of the samples included with the SDK:
 - Amazon S3 sample walkthrough video:
 http://channel9.msdn.com/Blogs/Interoperability/AWS-SDK-for-Windows-Phone-S3-sample-walkthrough
 - Amazon SQS sample walkthrough video:
